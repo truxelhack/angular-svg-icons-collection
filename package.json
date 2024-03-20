@@ -1,0 +1,20 @@
+{
+  "name": "angular-svg-icons-collection",
+  "version": "0.0.3",
+  "description": "A collection of angular icons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/truxelhack/angular-svg-icons-collection"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "icons": "^1.0.0",
+    "iconv-lite": "^0.6.3",
+    "iconify-icon": "^2.0.0"
+  }
+}
